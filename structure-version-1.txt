@@ -1,0 +1,13 @@
+// Ini merupakan structure folder yang cukup sering saya gunakan dalam membuat projek projek website sederhana.
+/ Namun, saat ini structure folder ini jarang saya gunakan, karena saya lebih memilih menggunakan structure folder versi 2.
+
+=> assets
+    => script
+        -- script.js
+    => style
+        -- style.css
+    => img 
+        -- img.jpeg
+        -- img.png
+-- index.html
+--? readme.txt

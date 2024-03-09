@@ -1,0 +1,15 @@
+// Saat ini, strukture folder ini sering saya gunakan dalam membuat projek-projek website sederhana yang berisi html, css, javascript, ataupun bootstrap.
+
+=> app
+    => css
+        -- main.css
+    => js
+        -- main.js
+=> assets
+    => audio
+        -- audio.mp3
+    => img
+        -- img2.jpeg
+        -- img3.png
+-- index.html
+--? readme.txt
